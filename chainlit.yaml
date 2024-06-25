@@ -1,0 +1,5 @@
+chainlit:
+  markdown: chainlit.md
+  locales:
+    - locale: en-US
+      markdown: chainlit.en-US.md
